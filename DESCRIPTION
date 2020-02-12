@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "marcinstepniak@ucm.es",
            comment = c(ORCID = "0000-0002-6489-5443"))
-Description: The package creates internal folder structure for RStudio projects, following adviace from Martin Chan (https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/).
+Description: The package creates internal folder structure for RStudio projects, following adviace from Martin Chan.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
