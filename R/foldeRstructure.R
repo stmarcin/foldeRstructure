@@ -1,6 +1,6 @@
 #' Create internal folder structure
 #' 
-#' This function creates an internal structure of working directory  for RStudio projects following Martin Chan´s 
+#' @description This function creates an internal structure of working directory for RStudio projects following Martin Chan´s 
 #' suggestion https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/
 #' 
 #' 
